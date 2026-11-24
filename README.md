@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohamed Ahmad Alsarkhy 👋
+# Hi there, I'm Mohamed Alsarkhy 👋
 ### Junior Full Stack .NET & Flutter Developer | Computer Science Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
@@ -68,9 +68,3 @@ I specialize in building scalable backend systems, RESTful APIs, responsive web 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohamed-alsarkhi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-alsarkhi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
